@@ -1,0 +1,34 @@
+.date-picker .arrow-button{
+-fx-background-radius:0px ;
+-fx-background-color: #22b25c;
+}
+
+.date-picker .arrow-button .arrow{
+-fx-background-radius:0px ;
+-fx-background-color: #303030;
+}
+
+.date-picker .arrow-button:hover .arrow{
+-fx-background-radius:0px ;
+-fx-background-color: #1c1c1c;
+ }
+
+ .date-picker .button {
+-fx-background-color: transparent;
+-fx-border-color:transparent;
+-fx-pref-height: 35px;
+-fx-pref-width: 35px;
+ }
+
+ .date-picker .button:hover {
+-fx-border-color:transparent;
+-fx-pref-height: 35px;
+-fx-pref-width: 35px;
+ }
+
+.date-picker .button .arrow:pressed {
+-fx-border-color:transparent;
+-fx-pref-height: 35px;
+-fx-pref-width: 35px;
+ }
+
